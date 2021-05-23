@@ -1,0 +1,8 @@
+com\se\onetomany\entity\Person.class
+com\se\onetomany\dao\CreditCardDAO.class
+com\se\onetomany\entity\CreditCard.class
+com\se\onetomany\dto\PersonDTO.class
+com\se\onetomany\controller\CreditCardController.class
+com\se\onetomany\dao\PersonDAO.class
+com\se\onetomany\util\HibernateUtil.class
+com\se\onetomany\controller\PersonController.class
